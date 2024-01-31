@@ -21,6 +21,14 @@ textarea {
   border-radius: 4px;
   resize: vertical;
 }
+input [type="datetime-local"] {
+  -webkit-appearance: none;
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
 select {
   -webkit-background: white;
   -webkit-appearance: none;
