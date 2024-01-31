@@ -109,6 +109,9 @@ input[type="submit"]:hover {
     border: 1px solid #ccc;
     border-radius: 4px;
     resize: vertical;
+    background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M8 9C7.44772 9 7 9.44771 7 10C7 10.5523 7.44772 1' fill='none'/></svg>");
+    background-repeat: no-repeat;
+    background-position: calc(100% - 0.75rem) center !important;
   }
   select {
     background: white;
