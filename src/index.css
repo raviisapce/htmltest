@@ -5,8 +5,7 @@
   box-sizing: border-box;
 }
 
-input,
-textarea {
+input {
   -webkit-appearance: none;
   width: 100%;
   padding: 12px;
@@ -14,7 +13,16 @@ textarea {
   border-radius: 4px;
   resize: vertical;
 }
+textarea {
+  -webkit-appearance: none;
+  width: 100%;
+  padding: 12px;
+  -webkit-border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
 select {
+  -webkit-background: white;
   -webkit-appearance: none;
   width: 100%;
   padding: 12px;
