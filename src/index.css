@@ -26,7 +26,7 @@ input[type="datetime-local"] {
   display: block;
   -webkit-appearance: none;
   -webkit-min-logical-width: calc(100% - 0px);
-  -webkit-height: auto;
+  min-height: 12vh;
   padding: 12px;
   border: 1px solid #ccc;
   border-radius: 4px;
