@@ -112,7 +112,7 @@ input[type="submit"]:hover {
   }
   select {
     background: white;
-    -webkit-appearance: listbox !important;
+    -webkit-appearance: listbox;
     min-height: 6vh;
     width: 100%;
     padding: 12px;
