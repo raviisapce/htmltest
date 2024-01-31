@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h2>Dispatch Form</h2>
+      <h1>Dispatch Form</h1>
       <div class="container">
         <form>
           <div class="row">

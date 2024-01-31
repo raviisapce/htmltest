@@ -110,6 +110,16 @@ input[type="submit"]:hover {
     border-radius: 4px;
     resize: vertical;
   }
+  select {
+    background: white;
+    -webkit-appearance: listbox !important;
+    min-height: 6vh;
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
 }
 
 body {
